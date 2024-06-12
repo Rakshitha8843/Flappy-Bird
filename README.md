@@ -3,9 +3,11 @@
 Flappy Bird is an endless game that involves a bird that the player can control. It is the player's responsibility to keep the bird from running into obstacles like pipes. The bird gains one point for each time it goes through the pipes. The bird must crash into the pipes or fall to the ground in order for the game to conclude. 
 The steps that must be done to develop this game are explained in the sections that follow.<br>
 
-1. HTML Section : This is where the game's components are created and loaded. The background, bird, hurdles, and scoring elements have all been chosen. Next, we create the index.js and style.css files and link to them.<br>
-2. CSS Section : This section allows to adjust the game item's size, position, and style based on ones needs.<br>
-3. Java Script Section : The portion of the code that manages the moving objects and the game's state is contained in this section. In this part, the steps listed below must be completed.<br>
+**1. HTML Section** : This is where the game's components are created and loaded. The background, bird, hurdles, and scoring elements have all been chosen. Next, we create the index.js and style.css files and link to them.<br>
+
+**2. CSS Section** : This section allows to adjust the game item's size, position, and style based on ones needs.<br>
+
+**3. Java Script Section** : The portion of the code that manages the moving objects and the game's state is contained in this section. In this part, the steps listed below must be completed.<br>
  a. Get a reference to bird and background image in JavaScript file.<br>
  b. Set some values for background scrolling speed, the flying speed of the bird, and gravity.<br>
  c. Create the infinite scrolling background.
